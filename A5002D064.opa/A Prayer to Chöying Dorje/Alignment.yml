@@ -1,0 +1,22 @@
+segment_sources:
+  PD78B25FE:
+    type: origin_type
+    relation: translation
+    language: en
+  PC78343A6:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  b194142699e8406a82d21a7448d02194:
+    PD78B25FE: e16853b7322f49a696ea178e69c4baf3
+    PC78343A6: dda69291c52a41549355ba4ec336d7b8
+  26394e15446d49c1b6216303b7aa22eb:
+    PD78B25FE: 1e03b6bd6d494ef7946c0889c1b948ae
+    PC78343A6: c4a9c5c410c34415aa4275f84c05a717
+  725ff63fdf594ae588ce4f5b4c15b416:
+    PD78B25FE: ba1ff26f686a4e78ab97bf848f8bbe47
+    PC78343A6: 41c0cf73a1a04912adfe89d499b5c017
+  d77ef2c14d084b1a876c2c7b8902c5b9:
+    PD78B25FE: 7bcdb177885149c1a8118394a1480e03
+    PC78343A6: 64485daee11048af877a58f4aaf259de
